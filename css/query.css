@@ -157,6 +157,9 @@
     flex-direction: column;
     align-items: center;
   }
+  .banner .container {
+    height: fit-content;
+  }
   .banner-text-box {
     text-align: center;
     padding: 3.2rem;
